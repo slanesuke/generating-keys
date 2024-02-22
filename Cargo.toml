@@ -1,0 +1,12 @@
+[package]
+name = "generate_keypairs"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand_core = "0.9.0-alpha.0"
+rand = "0.9.0-alpha.0"
+sha2 = "0.11.0-pre.3"
+hex-literal = "0.4.1"
